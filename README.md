@@ -1,3 +1,6 @@
+![image](https://github.com/AndreCoutinhom/htb_academy/assets/91290799/721996b6-4831-47f8-b3ba-77fb0ca215de)
+
+
 <h1 align="center">
 Introdução ao Networking
 
