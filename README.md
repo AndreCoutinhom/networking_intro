@@ -1,7 +1,7 @@
 <h1 align="center">
-  Introduction to Networking
+Introdução ao Networking
 
-  ###
+###
 
 ![image](https://github.com/AndreCoutinhom/networking_intro/assets/91290799/2499779f-5ffe-4fd2-8e82-83d26fe60624)
 
@@ -9,15 +9,16 @@
 
 ---
 
-This module covers core networking concepts that are fundamental for any IT professional.
 
-This module will cover the following topics:
+Este módulo aborda conceitos fundamentais de redes que são essenciais para qualquer profissional de TI.
 
-* The structure and design of the Internet
-* Which topologies are used
-* What for and what role the proxies play in the networks
-* Internet communication models and concepts
-* The difference between the OSI model and TCP/IP
-* How IPv4/IPv6 addressing is done in various networks
+Neste módulo, serão abordados os seguintes tópicos:
+
+* A estrutura e o design da Internet;
+* Quais topologias são utilizadas;
+* Para que serve e qual é o papel dos proxies nas redes;
+* Modelos e conceitos de comunicação na Internet;
+* A diferença entre o modelo OSI e o TCP/IP;
+* Como é feito o endereçamento IPv4/IPv6 em diversas redes.
 
 ---
