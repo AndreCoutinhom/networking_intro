@@ -18,7 +18,7 @@
 
 > O protocolo TPID é usado para identificar a presença da especificação 802.1Q da IEEE.
 
-## [Cadastrando VLAN cartões de interface de rede no Linux]()
+## [Cadastrando VLAN cartões de interface de rede no Linux](/Protocols_%26_Terminology/Terminal_Commands/linux_nic_vlan_assingment.sh)
 
 ## Cadastrando VLAN cartões de interface de rede no Windows
 
@@ -26,14 +26,14 @@
 ![image](https://github.com/AndreCoutinhom/networking_intro/assets/91290799/091f0d70-b7ad-467b-9c05-985779093803)
 ![image](https://github.com/AndreCoutinhom/networking_intro/assets/91290799/b44d7632-4b0c-4881-9b80-7d3771528e3f)
 
-### [Terminal]()
+### [Terminal](/Protocols_%26_Terminology/Terminal_Commands/windows_nic_vlan_assingment.sh)
 
 ## Análise de tráfego de VLAN
 
 ![image](https://github.com/AndreCoutinhom/networking_intro/assets/91290799/d08c41d3-76ea-4a3d-88c6-2a33ee9875fe)
 ![image](https://github.com/AndreCoutinhom/networking_intro/assets/91290799/67318b29-8174-47f1-ae90-8858a3c680a8)
 
-### [Tshark enumaration]()
+### [Tshark enumaration](/Protocols_%26_Terminology/Terminal_Commands/tshark_enumeration.sh)
 
 ## Vulnerabilidades de VLAN
 
