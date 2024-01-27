@@ -98,3 +98,5 @@ Recomenda-se que a rede de uma empresa consista nos seguintes fatores:
 * Com as credenciais do administrador, o invasor obteve acesso remoto não autorizado aos sistemas da empresa, potencialmente comprometendo dados sensíveis e sistemas críticos.
 
 Esse cenário destaca como as impressoras, muitas vezes negligenciadas em termos de segurança, podem ser exploradas como pontos de entrada em uma rede corporativa, resultando em sérias ameaças à segurança cibernética. Isso ressalta a importância de implementar práticas robustas de segurança, inclusive para dispositivos aparentemente simples, como impressoras.
+
+---
